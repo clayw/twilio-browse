@@ -1,0 +1,17 @@
+What it does
+-----------------
+
+1. Use web interface or sms message to navigate to URL
+2. Twilio reads page and navigation done by links
+
+
+What you need
+-----------------
+lynx
+web.py
+
+How to use
+-----------------
+1. Insert your Twilio SID, auth token, caller id #
+2. python browse.py
+3. sms message twilio number or use web interface to initiate call 
